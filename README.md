@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sidi Ahmed Houd
 =======================================================================================================================================
 
-Software Engineering student with more focus on Data Science and Machine learning. Actively seeking an internship or entry-level role in software engineering roles.
+Software Engineering student Actively seeking an internship or entry-level role as a software engineer.
 
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [Linkedin](http://https://www.linkedin.com/in/sidahmedsaleck/)
 * ✉️  You can contact me at [Sidahmedsaleck@outlook.com](mailto:Sidahmedsaleck@outlook.com)
-* 🧠  I'm learning Data Science and ML
+* 🧠  I'm learning Backend development
 
 ### Skills
 
